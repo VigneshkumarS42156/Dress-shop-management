@@ -1,6 +1,3 @@
-
-
-```markdown
 # 👗 Dressify GST
 
 **Dressify GST** is a Java Swing-based desktop application designed to simulate a real-world dress shop billing and management system. It provides an intuitive, interactive graphical user interface (GUI) that streamlines the process of choosing apparel, managing a virtual shopping cart, and generating itemized tax invoices.
